@@ -12,4 +12,5 @@ class MainActivity : AppCompatActivity() {
         // Adding comment for test 1.
         // Adding comment 2 for test 1.
     }
+    // Adding commit for Test2
 }
