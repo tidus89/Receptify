@@ -18,4 +18,6 @@ class MainActivity : AppCompatActivity() {
     // Adding comment for Test4
 
     // Adding comment 2 for Test4
+
+    // Adding release fix
 }
