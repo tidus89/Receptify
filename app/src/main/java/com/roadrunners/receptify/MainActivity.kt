@@ -20,4 +20,6 @@ class MainActivity : AppCompatActivity() {
     // Adding comment 2 for Test4
 
     // Adding release fix
+    // Rebase test8
+    // Rebase test88888
 }
